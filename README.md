@@ -1,6 +1,6 @@
 # NewsCategorizerML
 
-Simple machine learning model implementation for the news category dataset with 96% accuracy with natural language processing. Featuring [TPOT](https://github.com/EpistasisLab/tpot) machine learning pipeline optimization library.
+Machine learning model implementation for the news category dataset with 96% accuracy. Featuring [TPOT](https://github.com/EpistasisLab/tpot) machine learning pipeline optimization library and natural language processing with [spaCy](https://github.com/explosion/spaCy/).
 
 ## Trained categories
 
